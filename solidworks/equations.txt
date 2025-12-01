@@ -1,7 +1,7 @@
 ﻿"m3_hole"= 3.5
 "m3_washer"= 7.3
 "m3_nut"= 5.3
-"plywood_thickness" = 4.0
+"plywood_thickness" = 3.85
 "guide_width"= 10.0
 "guide_length"= 65.0
 "guide_tab_length" = 10.0
