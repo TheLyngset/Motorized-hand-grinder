@@ -1,0 +1,24 @@
+﻿"m3_hole"= 3.5
+"m3_washer"= 7.3
+"m3_nut"= 5.3
+"plywood_thickness" = 4.0
+"guide_width"= 10.0
+"guide_length"= 65.0
+"guide_tab_length" = 10.0
+"guide_tab_width" = 9.0
+"guide_thickness" = 12.0
+"grinder_od"= 52.0
+"grinder_id"= 45.5
+"grinder_adjust_od" = 58.0
+"funnel_width_from_adjust_ring" = 13.0
+"drill_contact_diameter_small" = 24.0
+"drill_contact_diameter_medium" = 28.0
+"drill_contact_diameter_large" = 39.0
+"drill_contact_diameter_tab" = 31.0
+"drill_contact_ow_tab" = 14.5
+"drill_contact_iw_tab" = 8.7
+"drill_contact_small_height" = 15.5
+"drill_contact_large_height" = 34.5
+
+"plywood_peg_length" = 40.0
+"plywood_peg_width" = 8.0
