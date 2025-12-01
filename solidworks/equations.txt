@@ -20,5 +20,5 @@
 "drill_contact_small_height" = 15.5
 "drill_contact_large_height" = 34.5
 
-"plywood_peg_length" = 40.0
-"plywood_peg_width" = 8.0
+"plywood_peg_length" = 40.5
+"plywood_peg_width" = 8.2
